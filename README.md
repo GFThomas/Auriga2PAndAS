@@ -2,13 +2,13 @@
 
 This GitHub is dedicated to the Auriga2PAndAS pipeline, described in Thomas G. F. et al 2020 (xxxxx)
 
-## Last update: 29 June 2020 by Guillaume F. Thomas *guillaume.thomas.astro .at. gmail.com*
+## Last update: 26 January 2021 by Guillaume F. Thomas *guillaume.thomas.astro .at. gmail.com*
 
 
 -------------------------------------------------------------------------------------------------------------------------------
 ### Access to the post-processed mocks:
 
-For each of the 6 halos treated in Thomas et al. 2020 (Au 6, 16, 21, 23, 24, 27) , a PAndAS like mock is disponible in:  *./results/mock_L3_halo_xx.fits*.
+For each of the 6 halos treated in Thomas et al. 2020 (Au 6, 16, 21, 23, 24, 27) , a PAndAS like mock is disponible in:  *https://wwwmpa.mpa-garching.mpg.de/auriga/gaiamock.html*.
 The column of these catalogues are disbribed in the Annexe 1 section of Thomas G. F. et al 2020 (xxxxx)
 
 
