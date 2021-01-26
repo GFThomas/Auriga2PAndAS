@@ -1,4 +1,5 @@
 all: density mask foreground down_res down_cat
+		mkdir results
 		chmod +x exec.py
 
 down_res:
